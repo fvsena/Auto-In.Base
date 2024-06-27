@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TPAuto-In.Base/bin/Debug
+/TPAuto-In.Base/obj/Debug
